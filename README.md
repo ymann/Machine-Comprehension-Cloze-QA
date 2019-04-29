@@ -1,4 +1,4 @@
-# Machine-Comprehension-Cloze-QA
+# Cloze-Style Reading Comprehension with Deep Learning
 A new approach to solving the reading comprehension problem using deep learning techniques.
 
 Team members: Yonah Mann, Rohan Menezes, Brandon Lin
